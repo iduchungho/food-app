@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
     provider = "mongodb"
-    url      = "mongodb+srv://giaphong:iH8dmbRbeKnht2gs@databasedamh.acc9voi.mongodb.net/databasedamh?retryWrites=true&w=majority"
+    url      = "mongodb+srv://iduchungho:r8oy879DNrdQsFdp@cluster0.jd2zgho.mongodb.net/food-db?retryWrites=true&w=majority"
 }
 
 model User {
